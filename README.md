@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad-jawad01
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on laravel project
 - 📫 How to reach me on jawadhusain98@gmail.com
 
