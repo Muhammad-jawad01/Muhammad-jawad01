@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about learning and building cool th
 
 ---
 
-## 📈 GitHub Stats (optional)
+## 📈 GitHub Stats
 
 <!-- Uncomment the section below if you want to show GitHub stats -->
 
