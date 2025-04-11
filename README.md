@@ -1,6 +1,5 @@
-# 👋 Hi there, I’m Muhammad Jawad
-
-Welcome to my GitHub profile! I'm passionate about learning and building cool things with code.
+<h1 align="center">Hi 👋, I'm Muhammad Jawad</h1>
+<h3 align="center">A passionate web developer on a journey to master full-stack development</h3>
 
 ---
 
