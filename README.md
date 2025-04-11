@@ -27,7 +27,6 @@ Welcome to my GitHub profile! I'm passionate about learning and building cool th
 
 <p align="center">
 
-![Muhammad Jawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-jawad01&show_icons=true&theme=radical)  
 <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-jawad01&show_icons=true&theme=tokyonight" alt="Jawad's GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-jawad01&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
