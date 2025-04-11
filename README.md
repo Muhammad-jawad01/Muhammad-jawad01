@@ -20,6 +20,16 @@
 
 ---
 
+## 🧠 Currently Learning
+
+- ✨ Advanced Laravel Features (Livewire, API Integration)
+- 📦 RESTful APIs & Microservices
+- 🐳 Containerization with **Docker**
+- 🧰 Backend server setup with **WAMP/XAMPP**
+- 💻 Frontend skills with Vue.js (coming soon!)
+
+---
+
 ## 🧰 Tools I Use Daily
 
 <p>
@@ -27,7 +37,8 @@
   <img src="https://img.shields.io/badge/Git-F0F0F0?logo=git&logoColor=orange" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WAMP-FF4088?logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -49,6 +60,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-jawad01&theme=tokyonight" alt="Jawad's Streak" />
+</p>
+
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-jawad01&theme=tokyonight&no-bg=true&no-frame=true" />
 </p>
 
 ---
