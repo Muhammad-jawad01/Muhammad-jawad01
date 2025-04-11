@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm passionate about learning and building cool th
 
 ## 🚀 Tech Stack
 
-- 🧠 Languages: HTML, CSS, JavaScript, PHP
-- 🔧 Frameworks: Laravel, Bootstrap
-- 🛠️ Tools: Git, GitHub, VS Code
+- 🧠 **Languages**: HTML, CSS, JavaScript, PHP  
+- 🔧 **Frameworks**: Laravel, CodeIgniter (CI), Bootstrap, Livewire  
+- 🛠️ **Tools**: Git, GitHub, GitLab, VS Code  
 
 ---
 
@@ -25,9 +25,8 @@ Welcome to my GitHub profile! I'm passionate about learning and building cool th
 
 <!-- Uncomment the section below if you want to show GitHub stats -->
 
-<!--
+
 ![Muhammad Jawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-jawad01&show_icons=true&theme=radical)
--->
 
 ---
 
