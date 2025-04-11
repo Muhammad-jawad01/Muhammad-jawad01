@@ -93,6 +93,13 @@
 
 ---
 
+## 😂 Random Dev Meme
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="dev joke">
+</p>
+
+
 ### 🙌 Let's Connect!
 
 If you're working on something exciting or want to collaborate on a Laravel or PHP project, hit me up!  
