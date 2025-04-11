@@ -20,6 +20,19 @@
 
 ---
 
+## 🧰 Tools I Use Daily
+
+<p>
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Git-F0F0F0?logo=git&logoColor=orange" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white" />
+</p>
+
+---
+
+
 ## 📈 GitHub Stats
 
 <!-- Uncomment the section below if you want to show GitHub stats -->
